@@ -1,0 +1,10 @@
+{
+  "name": "LifeQuest Personal Tracker",
+  "short_name": "LifeQuest",
+  "description": "Track habits, fitness, money, learning and daily reflections.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#10131b",
+  "theme_color": "#10131b",
+  "icons": []
+}
